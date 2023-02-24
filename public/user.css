@@ -1,0 +1,14 @@
+.container{
+    width: 400px;
+    margin: 100px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h2{
+   margin: 10px 0;
+
+}
+li{
+    color: gray;  
+    margin: 5px; 
+}
